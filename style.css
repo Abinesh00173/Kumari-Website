@@ -1,0 +1,41 @@
+header{
+    padding: 10px;
+    background-color: #0b011a;
+    text-align: center;
+    color: rgb(214, 198, 198);
+    width: auto;
+    height: 90px;
+    margin: auto;
+}
+nav{
+   background-color: beige;
+   text-align: center;
+  
+}
+nav a{
+    color: black;
+    margin: 2rem;
+    text-decoration: none;
+    font-weight: bold;
+}
+.search-box{
+    padding: 0.5rem;
+    border: 1.5px solid #985015;
+    border-radius: 5px;
+}
+.site-footer {
+  background-color: #cb8181;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  margin: auto;
+  position: fixed;
+  bottom: 0;
+}
+.logo {
+  float: left;
+  height: 60px;      
+  width: auto;  
+  margin: 10px 0;
+  border-radius: 10px;
+}
